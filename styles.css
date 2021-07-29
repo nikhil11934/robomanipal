@@ -159,6 +159,7 @@ nav ul li{
 }
 .firstPage img{
   height: 400px;
+  width: auto;
   opacity: 80%;
   float: right;
   padding-right: 50px;
