@@ -12,4 +12,9 @@
 ![souledstore](https://user-images.githubusercontent.com/87556591/127440278-a5715d91-93d1-466b-b06a-a19b70d6c49c.jpg)
 ![strange](https://user-images.githubusercontent.com/87556591/127440286-f3ef03ec-0c7f-4118-8715-5d5797bd145a.jpg)
 ![team photo](https://user-images.githubusercontent.com/87556591/127440721-91a9caa8-7983-4ad5-91d8-c3e794be9ae8.jpg)
+![instagram](https://user-images.githubusercontent.com/82819475/127459200-990021a1-8fff-4ca5-8455-ef51c5e90f1f.png)
+![facebook](https://user-images.githubusercontent.com/82819475/127459506-bf58e24f-de6a-467b-b785-d4a051fd9423.png)
+![linkedin](https://user-images.githubusercontent.com/82819475/127459854-794f7b9e-31ee-4132-9998-fcf5a961c0ee.png)
+![youtube](https://user-images.githubusercontent.com/82819475/127460052-804d97d7-270d-4e8d-8bf4-9244c35e5211.png)
+
 
