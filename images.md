@@ -22,5 +22,9 @@
 ![gallery 4](https://user-images.githubusercontent.com/87556591/127764755-f26fcc02-7e62-4e43-a078-191929c28129.jpeg)
 ![gallery 5](https://user-images.githubusercontent.com/87556591/127764758-56ae87fa-7f76-4db6-a438-11d4466143ca.jpeg)
 ![gallery 6](https://user-images.githubusercontent.com/87556591/127764759-f7fb79ea-efcb-4de5-9b28-e020fc548612.jpeg)
+<img width="783" alt="robomanipal team" src="https://user-images.githubusercontent.com/87556591/128387950-d89d5fd4-f0f5-441e-b5e5-03693c063557.png">
+![wro2021logo](https://user-images.githubusercontent.com/87556591/128388636-ef923490-0f9d-4b5e-9bde-8f74530b892d.jpg)
+![robocon2021](https://user-images.githubusercontent.com/87556591/128388656-3c1c60c8-6559-4236-885d-6d24496f6b8e.jpg)
+![tech tatva](https://user-images.githubusercontent.com/87556591/128388682-de49bd3b-0ae5-4fe8-acd3-0542b2f63267.jpg)
 
 
