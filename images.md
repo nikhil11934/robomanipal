@@ -27,5 +27,6 @@
 ![robocon2021](https://user-images.githubusercontent.com/87556591/128388656-3c1c60c8-6559-4236-885d-6d24496f6b8e.jpg)
 ![tech tatva](https://user-images.githubusercontent.com/87556591/128388682-de49bd3b-0ae5-4fe8-acd3-0542b2f63267.jpg)
 ![photo 2 edited](https://user-images.githubusercontent.com/87556591/128390317-f54aa772-1be0-4a22-b99c-e00967121c88.jpg)
+<img width="538" alt="robomanipal board" src="https://user-images.githubusercontent.com/87556591/128391238-d1eb14e6-9f88-42fd-b6f5-fb031e324064.png">
 
 
