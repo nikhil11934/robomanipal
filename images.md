@@ -26,5 +26,6 @@
 ![wro2021logo](https://user-images.githubusercontent.com/87556591/128388636-ef923490-0f9d-4b5e-9bde-8f74530b892d.jpg)
 ![robocon2021](https://user-images.githubusercontent.com/87556591/128388656-3c1c60c8-6559-4236-885d-6d24496f6b8e.jpg)
 ![tech tatva](https://user-images.githubusercontent.com/87556591/128388682-de49bd3b-0ae5-4fe8-acd3-0542b2f63267.jpg)
+![photo 2 edited](https://user-images.githubusercontent.com/87556591/128390317-f54aa772-1be0-4a22-b99c-e00967121c88.jpg)
 
 
