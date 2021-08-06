@@ -347,29 +347,7 @@ i{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-table{
-  width:80%;
-  align-self: center; 
-}
 
-table, th, tr {
-  border: 3px solid rgb(0, 0, 0);
-  border-collapse: collapse;
-}
-
-th, tr{
- padding: 15px;
-}
-
-th{
-  width:50%;
-}
-
-.blackBox{
-  background: #7b868b;
-  color: rgb(0, 0, 0);
-  
-}
 
 #contact{
   margin: auto;
@@ -436,6 +414,26 @@ th{
 .SPONSORS .carousel-control-next{
   background-color: #000000;
 }
+.COMPETITION-CARD{
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  
+}
+
+/* On mouse-over, add a deeper shadow */
+.COMPETITION-CARD:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.COMPETITION-CONTAINER{
+  padding: 2px 16px;
+}
 /* Responsiveness */
 
 .menu{
@@ -479,4 +477,18 @@ th{
   height: 500px;
   display: block;
   padding: 10px 10px 10px 10px ;
+}
+.gallery:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.team-column {
+  float: right;
+  width: 50%;
+}
+.team-column img{
+  height: 600px;
+  width: auto;
+  
 }
